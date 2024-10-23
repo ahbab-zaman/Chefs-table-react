@@ -1,5 +1,6 @@
 [
     {
+      "recipe_id": 1,
       "recipe_image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=1913&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "recipe_name": "Chicken Curry",
       "recipe_description": "A spicy and flavorful chicken curry with a blend of Indian spices.",
@@ -12,14 +13,13 @@
         "1 tsp cumin",
         "2 tsp coriander powder",
         "1 tsp chili powder",
-        "Salt to taste",
-        "2 tbsp oil",
-        "Coriander leaves for garnish"
+        "Salt to taste"
       ],
       "cook_time": 45,
       "calories": 350
     },
     {
+      "recipe_id": 2,
       "recipe_image": "https://images.unsplash.com/photo-1552914343-54bcc3ba07f8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8VmVnZXRhYmxlJTIwU3RpciUyMEZyeXxlbnwwfHwwfHx8MA%3D%3D",
       "recipe_name": "Vegetable Stir-Fry",
       "recipe_description": "A quick and healthy stir-fry made with fresh vegetables and soy sauce.",
@@ -38,6 +38,7 @@
       "calories": 200
     },
     {
+      "recipe_id": 3,
       "recipe_image": "https://images.unsplash.com/photo-1579349443343-73da56a71a20?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fENyZWFteSUyMEFsZnJlZG8lMjBQYXN0YXxlbnwwfHwwfHx8MA%3D%3D",
       "recipe_name": "Creamy Alfredo Pasta",
       "recipe_description": "Rich and creamy Alfredo pasta with garlic and parmesan cheese.",
@@ -48,12 +49,15 @@
         "2 tbsp butter",
         "2 cloves garlic, minced",
         "Salt and pepper to taste",
+        "Parsley for garnish",
+        "Parsley for garnish",
         "Parsley for garnish"
       ],
       "cook_time": 25,
       "calories": 600
     },
     {
+      "recipe_id": 4,
       "recipe_image": "https://images.unsplash.com/photo-1506655624258-6e7d8102f90f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fEZsdWZmeSUyMFBhbmNha2VzfGVufDB8fDB8fHww",
       "recipe_name": "Fluffy Pancakes",
       "recipe_description": "Deliciously light and fluffy pancakes, perfect for breakfast.",
@@ -65,12 +69,14 @@
         "1/4 tsp salt",
         "1 cup buttermilk",
         "1 egg",
+        "2 tbsp melted butter",
         "2 tbsp melted butter"
       ],
       "cook_time": 15,
       "calories": 300
     },
     {
+      "recipe_id": 5,
       "recipe_image": "https://images.unsplash.com/photo-1633368475188-1f39151aa4e4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fENhZXNhciUyMFNhbGFkfGVufDB8fDB8fHww",
       "recipe_name": "Caesar Salad",
       "recipe_description": "A classic Caesar salad with fresh romaine lettuce, croutons, and Caesar dressing.",
@@ -79,12 +85,17 @@
         "1/2 cup croutons",
         "1/4 cup grated parmesan",
         "3 tbsp Caesar dressing",
+        "Salt and pepper to taste",
+        "Salt and pepper to taste",
+        "Salt and pepper to taste",
+        "Salt and pepper to taste",
         "Salt and pepper to taste"
       ],
       "cook_time": 10 ,
       "calories": 180 
     },
     {
+      "recipe_id": 6,
       "recipe_image": "https://images.unsplash.com/photo-1589886119971-ce58594dba81?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fENob2NvbGF0ZSUyMEJyb3duaWVzfGVufDB8fDB8fHww",
       "recipe_name": "Chocolate Brownies",
       "recipe_description": "Rich and fudgy chocolate brownies with a gooey center.",
@@ -96,6 +107,7 @@
         "1/2 cup flour",
         "1/4 tsp salt",
         "1/4 tsp baking powder",
+        "1 tsp vanilla extract",
         "1 tsp vanilla extract"
       ],
       "cook_time": 30,
